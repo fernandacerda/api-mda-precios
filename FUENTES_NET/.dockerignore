@@ -25,3 +25,4 @@ packages/*
 
 # ...except for the publishing folder.
 !API_MDA_PrecioMedio/bin/Release/PublishOutput/*
+!API_MDA_PrecioMedio/bin/Release/PublishOutput/
