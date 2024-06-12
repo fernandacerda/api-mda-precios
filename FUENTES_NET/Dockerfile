@@ -38,8 +38,7 @@ ADD LogMonitorConfig.json LogMonitor/
 # Copy publishing artifacts to webroot.
 #------------------------------------------------------------------------------
 
-ADD API_MDA_PrecioMedio/bin/Release/PublishOutput/ c:/inetpub/wwwroot/
-
+ADD API_MDA_PrecioMedio/bin/Release/PublishOutput c:/inetpub/wwwroot/
 #------------------------------------------------------------------------------
 # Configure IIS using the helper functions from deployment.ps1.
 #------------------------------------------------------------------------------
@@ -47,7 +46,7 @@ ADD API_MDA_PrecioMedio/bin/Release/PublishOutput/ c:/inetpub/wwwroot/
 ADD deployment.ps1 /
 RUN . /deployment.ps1; \
 	Install-Iis; \
-	Register-WebApplication -AppName "API_MDA_PrecioMedio"; \
+	Register-WebApplication -AppName "api-mda-preciomedio"; \
 	Remove-Item /deployment.ps1
 
 #------------------------------------------------------------------------------
