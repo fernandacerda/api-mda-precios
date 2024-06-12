@@ -1,0 +1,14 @@
+bin/
+obj/
+packages/
+*.suo
+.nuget/
+*.csproj.user
+.idea/
+*.iml
+*.sln.DotSettings.user
+.vs/
+*~
+*.xproj.user
+project.lock.json
+.vscode/
