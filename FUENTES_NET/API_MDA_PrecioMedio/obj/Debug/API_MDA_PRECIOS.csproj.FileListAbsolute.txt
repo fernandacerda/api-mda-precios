@@ -1,0 +1,111 @@
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\API_MDA_PrecioMedio.dll.config
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\API_MDA_PrecioMedio.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\API_MDA_PrecioMedio.pdb
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\Antlr3.Runtime.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\log4net.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\Microsoft.Web.Infrastructure.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\Newtonsoft.Json.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\Oracle.ManagedDataAccess.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Net.Http.Formatting.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Helpers.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Http.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Http.WebHost.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Mvc.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Optimization.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Razor.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.Deployment.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.Razor.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\WebGrease.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\log4net.xml
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\Newtonsoft.Json.xml
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Net.Http.Formatting.xml
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Helpers.xml
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Http.xml
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Http.WebHost.xml
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Mvc.xml
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Optimization.xml
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Razor.xml
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.xml
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.Deployment.xml
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.Razor.xml
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\bin\Antlr3.Runtime.pdb
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PRECIOS.csproj.AssemblyReference.cache
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PRECIOS.csproj.CoreCompileInputs.cache
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PRECIOS.csproj.CopyComplete
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PrecioMedio.dll
+e:\Proyectos\2023\29 GP VC simultaneas\API_MDA_PRECIOS\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PrecioMedio.pdb
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\API_MDA_PrecioMedio.dll.config
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\API_MDA_PrecioMedio.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\API_MDA_PrecioMedio.pdb
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\Antlr3.Runtime.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\log4net.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\Microsoft.Web.Infrastructure.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\Newtonsoft.Json.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\Oracle.ManagedDataAccess.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Net.Http.Formatting.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Helpers.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Http.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Http.WebHost.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Mvc.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Optimization.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Razor.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.Deployment.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.Razor.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\WebGrease.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\log4net.xml
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\Newtonsoft.Json.xml
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Net.Http.Formatting.xml
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Helpers.xml
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Http.xml
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Http.WebHost.xml
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Mvc.xml
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Optimization.xml
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Razor.xml
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.xml
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.Deployment.xml
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.Razor.xml
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\Antlr3.Runtime.pdb
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PRECIOS.csproj.AssemblyReference.cache
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PRECIOS.csproj.CoreCompileInputs.cache
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PRECIOS.csproj.CopyComplete
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PrecioMedio.dll
+e:\Proyectos\GITHUB\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PrecioMedio.pdb
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\API_MDA_PrecioMedio.dll.config
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\API_MDA_PrecioMedio.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\API_MDA_PrecioMedio.pdb
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\Antlr3.Runtime.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\log4net.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\Microsoft.Web.Infrastructure.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\Newtonsoft.Json.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\Oracle.ManagedDataAccess.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Net.Http.Formatting.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Helpers.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Http.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Http.WebHost.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Mvc.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Optimization.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Razor.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.Deployment.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.Razor.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\WebGrease.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\log4net.xml
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\Newtonsoft.Json.xml
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Net.Http.Formatting.xml
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Helpers.xml
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Http.xml
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Http.WebHost.xml
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Mvc.xml
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Optimization.xml
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.Razor.xml
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.xml
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.Deployment.xml
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\System.Web.WebPages.Razor.xml
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\bin\Antlr3.Runtime.pdb
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PRECIOS.csprojAssemblyReference.cache
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PRECIOS.csproj.CoreCompileInputs.cache
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PRECIOS.csproj.CopyComplete
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PrecioMedio.dll
+C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\FUENTES_NET\API_MDA_PrecioMedio\obj\Debug\API_MDA_PrecioMedio.pdb
