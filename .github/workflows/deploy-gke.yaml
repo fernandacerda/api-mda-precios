@@ -6,16 +6,13 @@ on:
       - main
 
 env:
-  PROJECT_ID: gke-poc-421401
-  PROJECT_NUMBER: 300481085503
-
-  CLUSTER: clouddemo-windows
-  CLUSTER_ZONE: us-central1-a
-
+  PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+  PROJECT_NUMBER: ${{ secrets.GCP_PROJECT_NUMBER }}
+  CLUSTER: api-mda-preciomedio
+  CLUSTER_ZONE: southamerica-west1-a
   REPOSITORY: docker-images-garantia-pacto
-  REPOSITORY_REGION: southamerica-west1
-
-  IMAGE: apigpventacorta:dev
+  REPOSITORY_REGION: southamerica-west1-a 
+  IMAGE: apimdapreciomedio
 
 jobs:
   build:
@@ -28,9 +25,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
-    #
-    # Authenticate to Google Cloud using workload identity federation
-    #
     # Authenticate to Google Cloud using service account key
     - id: 'auth'
       name: 'Obtain access token by using service account key'
@@ -47,9 +41,8 @@ jobs:
     - name: Configure Docker for Artifact Registry
       run: gcloud auth configure-docker ${{ env.REPOSITORY_REGION }}-docker.pkg.dev
 
-    #
+
     # Build the .NET code
-    #
     - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v1
 
@@ -57,29 +50,25 @@ jobs:
       uses: NuGet/setup-nuget@v1
 
     - name: Restore NuGet packages
-      run: nuget restore FUENTES_NET/API_GP_VentaCorta.sln
+      run: nuget restore net4/CloudDemo.Mvc.sln
 
     - name: Build solution
-      run: msbuild /t:Rebuild /p:Configuration=Release /p:DeployOnBuild=true /p:PublishProfile=FolderProfile /nologo FUENTES_NET/API_GP_VentaCorta.sln
+      run: msbuild /t:Rebuild /p:Configuration=Release /p:DeployOnBuild=true /p:PublishProfile=FolderProfile net4/CloudDemo.Mvc.sln
 
-    #
     # Build the Docker image and push it to Artifact Registry
-    #
     - name: Create image tag
-      run: echo "IMAGE_TAG=${{ env.REPOSITORY_REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.REPOSITORY }}/${{ env.IMAGE }}:$env:GITHUB_SHA" >> $GITHUB_ENV
+      run: echo "IMAGE_TAG=${{ env.REPOSITORY_REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.REPOSITORY }}/${{ env.IMAGE }}:$env:GITHUB_SHA" >> $env:GITHUB_ENV
 
     - name: Lock image version in deployment.yaml
       shell: pwsh
-      run: (Get-Content FUENTES_NET\deployment.yaml) -replace "CLOUDDEMO_IMAGE","${{ env.IMAGE_TAG }}" | Out-File -Encoding ASCII FUENTES_NET/deployment.yaml
+      run: (Get-Content net4\deployment.yaml) -replace "CLOUDDEMO_IMAGE","${{ env.IMAGE_TAG }}" | Out-File -Encoding ASCII net4\deployment.yaml
 
     - name: Build Docker image
-      run: docker build --tag "${{ env.REPOSITORY_REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.REPOSITORY }}/${{ env.IMAGE }}" FUENTES_NET/
+      run: docker build --tag "${{ env.IMAGE_TAG }}" net4
 
     - name: Publish Docker image to Google Artifact Registry
-      run: docker push "${{ env.REPOSITORY_REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.REPOSITORY }}/${{ env.IMAGE }}"
+      run: docker push "${{ env.IMAGE_TAG }}"
 
-    #
     # Deploy to GKE
-    #
     - name: Deploy to GKE
-      run: kubectl apply -f FUENTES_NET/deployment.yaml
+      run: kubectl apply -f net4/deployment.yaml
