@@ -46,7 +46,7 @@ ADD API_MDA_PrecioMedio/bin/Release/PublishOutput c:/inetpub/wwwroot/
 ADD deployment.ps1 /
 RUN . /deployment.ps1; \
 	Install-Iis; \
-	Register-WebApplication -AppName "api-mda-preciomedio"; \
+	Register-WebApplication -AppName "ApiMDAPrecioMedio"; \
 	Remove-Item /deployment.ps1
 
 #------------------------------------------------------------------------------
