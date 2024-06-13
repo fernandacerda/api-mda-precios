@@ -11,7 +11,7 @@ env:
   CLUSTER: api-mda-preciomedio
   CLUSTER_ZONE: southamerica-west1-a
   REPOSITORY: docker-images-garantia-pacto
-  REPOSITORY_REGION: southamerica-west1-a 
+  REPOSITORY_REGION: southamerica-west1
   IMAGE: apimdapreciomedio
 
 jobs:
