@@ -5,221 +5,222 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\Rodrigo_NET\GIT_HUB\poc-garantia-pacto\api-mda-precios\DEPLOY</_PublishTargetUrl>
-    <History>True|2023-11-21T20:56:22.6292337Z;True|2023-11-21T17:46:55.8439942-03:00;True|2023-11-20T17:56:52.4967007-03:00;True|2023-09-13T12:19:54.0655216-03:00;</History>
+    <History>True|2024-06-13T18:04:01.5480695Z||;True|2024-06-13T13:56:40.0201031-04:00||;True|2023-11-21T17:56:22.6292337-03:00||;True|2023-11-21T17:46:55.8439942-03:00||;True|2023-11-20T17:56:52.4967007-03:00||;True|2023-09-13T12:19:54.0655216-03:00||;</History>
+    <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
     <File Include="Areas/HelpPage/HelpPage.css">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:38</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/Api.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/Index.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Help/ResourceModel.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Shared/_Layout.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/Web.config">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="Areas/HelpPage/Views/_ViewStart.cshtml">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:39</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.dll">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.pdb">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="bin/API_MDA_PrecioMedio.dll">
-      <publishTime>05/23/2024 09:45:21</publishTime>
+      <publishTime>06/13/2024 14:04:00</publishTime>
     </File>
     <File Include="bin/API_MDA_PrecioMedio.pdb">
-      <publishTime>05/23/2024 09:45:21</publishTime>
+      <publishTime>06/13/2024 14:04:00</publishTime>
     </File>
     <File Include="bin/log4net.dll">
-      <publishTime>05/22/2024 17:21:59</publishTime>
+      <publishTime>05/27/2024 14:49:53</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:58</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:58</publishTime>
     </File>
     <File Include="bin/Oracle.ManagedDataAccess.dll">
-      <publishTime>05/10/2019 03:30:58</publishTime>
+      <publishTime>05/27/2024 14:49:40</publishTime>
     </File>
     <File Include="bin/System.Net.Http.Formatting.dll">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:55</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:57</publishTime>
     </File>
     <File Include="bin/System.Web.Http.dll">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:55</publishTime>
     </File>
     <File Include="bin/System.Web.Http.WebHost.dll">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:57</publishTime>
     </File>
     <File Include="bin/System.Web.Mvc.dll">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:54</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:54</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:54</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.Deployment.dll">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:57</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.dll">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:57</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.Razor.dll">
-      <publishTime>05/22/2024 17:21:57</publishTime>
+      <publishTime>05/27/2024 14:49:57</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
-      <publishTime>05/22/2024 17:21:59</publishTime>
+      <publishTime>05/27/2024 14:50:03</publishTime>
     </File>
     <File Include="Content/bootstrap-theme.css">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:41</publishTime>
     </File>
     <File Include="Content/bootstrap-theme.css.map">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:41</publishTime>
     </File>
     <File Include="Content/bootstrap-theme.min.css">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:41</publishTime>
     </File>
     <File Include="Content/bootstrap-theme.min.css.map">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:41</publishTime>
     </File>
     <File Include="Content/bootstrap.css">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:41</publishTime>
     </File>
     <File Include="Content/bootstrap.css.map">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:41</publishTime>
     </File>
     <File Include="Content/bootstrap.min.css">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:41</publishTime>
     </File>
     <File Include="Content/bootstrap.min.css.map">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:42</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:42</publishTime>
     </File>
     <File Include="favicon.ico">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:38</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.eot">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:42</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.svg">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:42</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.ttf">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:42</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.woff">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:42</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.woff2">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:42</publishTime>
     </File>
     <File Include="Global.asax">
-      <publishTime>05/22/2024 17:21:54</publishTime>
+      <publishTime>05/27/2024 14:49:38</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Scripts/bootstrap.min.js">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Scripts/jquery-3.4.1.js">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Scripts/jquery-3.4.1.min.js">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Scripts/jquery-3.4.1.min.map">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Scripts/jquery-3.4.1.slim.js">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Scripts/jquery-3.4.1.slim.min.js">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Scripts/jquery-3.4.1.slim.min.map">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Scripts/modernizr-2.8.3.js">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Views/Web.config">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Views/_ViewStart.cshtml">
-      <publishTime>05/22/2024 17:21:55</publishTime>
+      <publishTime>05/27/2024 14:49:50</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>05/22/2024 18:38:19</publishTime>
+      <publishTime>06/13/2024 13:56:39</publishTime>
     </File>
   </ItemGroup>
 </Project>
