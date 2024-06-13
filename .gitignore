@@ -1,4 +1,6 @@
 bin/
+!bin/Release/PublishOutput/
+!bin/Release/PublishOutput/.gitkeep
 obj/
 packages/
 *.suo
